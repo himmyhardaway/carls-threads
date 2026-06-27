@@ -5,6 +5,7 @@ Turn any Due Dilly newsletter, archival piece, or episode transcript into a poli
 Works in Claude Chat, ChatGPT, and Claude Code.
 
 > **Want to skip the pasting every time?** See [SETUP.md](SETUP.md) to install this as a permanent tool in Claude or ChatGPT.
+> **Want to train it on your own threads?** See [CUSTOMIZE.md](CUSTOMIZE.md) to make the skill sharper over time.
 
 ---
 
