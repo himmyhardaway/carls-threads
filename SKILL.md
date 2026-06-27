@@ -53,13 +53,14 @@ Turn the source into a numbered thread draft in this voice and style:
 - Second-to-last tweet closes on the real-world implication or a specific example that proves the point
 
 **Attribution tweet (always last):**
-End every thread with a closing tweet that credits Due Dilly:
+End every thread with a closing tweet that credits Due Dilly. Carl can edit or remove this as he sees fit.
 
 ```
-Full breakdown at duethedilly.com →
+Full breakdown at duethedilly.com
+Watch on YouTube: youtube.com/@duedillypod
 ```
 
-If the specific piece has a direct URL, use that instead. If not, use the homepage. This tweet is not numbered — it is a standalone closing line.
+If the specific piece has a direct URL, use that instead of the homepage.
 
 Number each tweet. Flag any fact to verify before posting with [verify].
 
@@ -90,7 +91,8 @@ THREAD: [Topic Title] — [Date] — Status: Draft
 
 [continue for all tweets]
 
-duethedilly.com →
+Full breakdown at duethedilly.com
+Watch on YouTube: youtube.com/@duedillypod
 ```
 
 When "export doc" is typed, output the same format with a horizontal rule between each tweet for easy editing in a document.
@@ -99,9 +101,10 @@ When "export post" is typed, output each tweet individually, separated by:
 ```
 --- Tweet [number] of [total] ---
 ```
-With the attribution line last:
+With the attribution last:
 ```
 --- Attribution ---
-Full breakdown at duethedilly.com →
+Full breakdown at duethedilly.com
+Watch on YouTube: youtube.com/@duedillypod
 ```
 So everything can be copied and posted one at a time.
