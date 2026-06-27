@@ -4,6 +4,8 @@ Turn any Due Dilly newsletter, archival piece, or episode transcript into a poli
 
 Works in Claude Chat, ChatGPT, and Claude Code.
 
+> **Want to skip the pasting every time?** See [SETUP.md](SETUP.md) to install this as a permanent tool in Claude or ChatGPT.
+
 ---
 
 ## How to Use It
@@ -74,7 +76,7 @@ cp SKILL.md ~/.claude/commands/cjb-threads.md
 | `export doc` | Formatted for Google Docs with dividers between tweets |
 | `export post` | One tweet at a time, ready to copy and post to X |
 
-Every export includes an attribution line at the end pointing back to Due Dilly.
+Every export includes an attribution line pointing back to Due Dilly and the YouTube channel.
 
 ---
 
